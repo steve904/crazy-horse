@@ -5,7 +5,7 @@ sections:
     title: Just Chill & Kick Back
     subtitle: Everything is going to work out
     actions:
-      - label: Try for free
+      - label: Jump In
         url: /pricing
         style: primary
     image: images/hero.svg
