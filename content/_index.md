@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Just Chill & Kick Back
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Everything is going to work out
     actions:
       - label: Try for free
         url: /pricing
